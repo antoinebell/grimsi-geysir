@@ -12,4 +12,4 @@ Select 'grimsi-geysir' from the list of themes<br>
 Click the Use theme button to enable this theme<br>
 <i>This theme is open-sourced software licensed under the MIT license.</i><br><br>
 <h1>Demo:</h1>
-<a href="http://grimur.net">http://grimur.net</a>
+<a href="https://koken.antoinebellanger.ch">koken.antoinebellanger.ch</a>
